@@ -2,7 +2,7 @@
 ### I'm Dan Habib
 
 
-Passionate about programming: python, go, javascript, flutter with dart
+Passionate about programming: 
 
 <img src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png"
         height="129" width="129"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
