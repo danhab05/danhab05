@@ -4,7 +4,7 @@
 
 Passionate about programming: python, go, javascript, flutter with dart
 
-<img src="/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter logo" height="37" width="129" class="align-middle">
+<img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" >
 
 - Dart with flutter
 - Python
