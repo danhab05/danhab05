@@ -12,4 +12,4 @@ Passionate about programming:
         src="https://golang.org/lib/godoc/images/go-logo-blue.svg"
         height="129" width="129">
     <img src="https://pbs.twimg.com/media/DzDJ0DRXQAMHaQO.png" height="129" width="129">
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" height="129" width="129">
+    <img src="https://icons-for-free.com/iconfiles/png/512/icon++html+icon-1320194800994962643.png" height="129" width="129">
