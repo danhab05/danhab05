@@ -4,8 +4,6 @@
 
 Passionate about programming: python, go, javascript, flutter with dart
 
-## Language used
-```
 <img src="/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter logo" height="37" width="129" class="align-middle">
 
 - Dart with flutter
@@ -13,5 +11,5 @@ Passionate about programming: python, go, javascript, flutter with dart
 - Javascript
 - Golang
 - C++
-```
+
 
