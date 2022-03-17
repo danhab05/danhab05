@@ -1,8 +1,4 @@
-### Hi there 👋 
-### I'm Dan Habib
-
-
-Passionate about programming: 
+ ### I'm Dan Habib
 
 <img src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png"
         height="129" width="129">
