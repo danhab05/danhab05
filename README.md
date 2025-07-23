@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python, go, flutter**
 
-- 📫 How to reach me **habibdan05@gmail.com**
+- 📫 How to reach me **danhabibpro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
