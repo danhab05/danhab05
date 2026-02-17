@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">Fullstack Developer & Automation Specialist</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
-  Automatisation • Scraping • APIs • Outils internes
+  Automation • Scraping • APIs • Internal tools
 </p>
 
 ---
 
 ## 🚀 About
 
-Développeur spécialisé en **automatisation métier, scraping et applications web sur-mesure**.  
-J’aide les équipes à gagner du temps, réduire les erreurs et optimiser leurs processus.
+Je développe des outils et applications pour automatiser des tâches répétitives et simplifier les processus internes.  
+Beaucoup de mes projets tournent autour du scraping, des APIs et du développement d’outils sur-mesure.
 
 📍 Paris • Remote  
 📫 danhabibpro@gmail.com  
@@ -38,20 +38,4 @@ J’aide les équipes à gagner du temps, réduire les erreurs et optimiser leur
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
-
----
-
-## 🎯 Focus
-
-- Automatisation avancée  
-- Scraping robuste  
-- Intégration & création d’API REST  
-- Applications fullstack sur-mesure  
-- Déploiement Docker / VPS  
-
----
-
-⭐ +40 projets livrés • 5+ ans d’expérience
+  <img src="https://raw.githubusercontent.com/
