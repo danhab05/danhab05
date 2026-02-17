@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 Je suis développeur backend avec de l’expérience en **automatisation, scraping, intégration d’APIs et outils internes**.  
-J’aide les équipes et entreprises à gagner du temps en transformant des tâches manuelles répétitives en solutions fiables. :contentReference[oaicite:0]{index=0}
+J’aide les équipes et entreprises à gagner du temps en transformant des tâches manuelles répétitives en solutions fiables.
 
 - 💻 Backend-focused developer  
 - 🌱 Currently learning **Golang**  
@@ -23,68 +23,63 @@ J’aide les équipes et entreprises à gagner du temps en transformant des tâc
 ## 🛠 Technical Skills
 
 ### 💻 Languages
-
-Python (Advanced)  
-Dart / Flutter (Advanced)  
-JavaScript (Intermediate+)  
-PHP (Intermediate)  
-Go (Learning)  
-HTML/CSS (Intermediate)  
-C++ (Beginner) :contentReference[oaicite:1]{index=1}
+- Python (Advanced)  
+- Dart / Flutter (Advanced)  
+- JavaScript (Intermediate+)  
+- PHP (Intermediate)  
+- Go (Learning)  
+- HTML/CSS (Intermediate)  
+- C++ (Beginner)
 
 ---
 
 ### 📦 Frameworks & Libraries
-
 - Flask (Strong)  
 - Django (Strong)  
 - Next.js (Intermediate)  
-- React (Intermediate) :contentReference[oaicite:2]{index=2}
+- React (Intermediate)
 
 ---
 
 ### 🗄 Databases
-
-- MySQL (Advanced) :contentReference[oaicite:3]{index=3}
+- MySQL (Advanced)
 
 ---
 
 ### 🚀 Tools & Deployment
-
 - Linux (Daily use)  
 - Docker (Good mastery)  
 - Git (Daily use)  
 - REST APIs (Design & Consumption)  
-- VPS deployment :contentReference[oaicite:4]{index=4}
+- VPS deployment
 
 ---
 
 ### 🔍 Specializations
-
-- **Automatisation avancée**  
-- **Scraping web solide**  
-- **Scripting avancé** :contentReference[oaicite:5]{index=5}
+- Advanced automation  
+- Robust web scraping  
+- Advanced scripting  
 
 ---
 
 ## 📌 Projects Highlights
 
-### 🧠 Automation of Real Estate Listings  
-Automatisation complète de dépôt d’annonces avec formulaire, upload d’images et notifications email — utilisé quotidiennement par l’équipe. :contentReference[oaicite:6]{index=6}
+### 🧠 Automation of Real Estate Listings
+Automatisation complète de dépôt d’annonces avec formulaire, upload d’images et notifications email — utilisé quotidiennement par l’équipe.
 
 **Tech:** Python, Next.js, Docker, Selenium
 
 ---
 
-### 🧪 COVID Rapid Test Form  
-Formulaire d’inscription web avec envoi automatique de résultats par mail et suivi centralisé pour pharmacien & patients. :contentReference[oaicite:7]{index=7}
+### 🧪 COVID Rapid Test Form
+Formulaire d’inscription web avec envoi automatique de résultats par mail et suivi centralisé pour pharmacien & patients.
 
 **Tech:** Flutter, Python, Flask, Docker
 
 ---
 
-### 🕸 Web Scraping & Scripts  
-Développement de scripts de scraping et automatisation pour back-offices, fournissant des données qualifiées et workflows plus efficaces. :contentReference[oaicite:8]{index=8}
+### 🕸 Web Scraping & Scripts
+Développement de scripts de scraping et automatisation pour back-offices, fournissant des données qualifiées et workflows plus efficaces.
 
 **Tech:** Python, Go
 
@@ -106,4 +101,4 @@ Développement de scripts de scraping et automatisation pour back-offices, fourn
 
 ---
 
-⭐️ Basé à Paris — Ouvert aux missions backend, automatisation & intégration. :contentReference[oaicite:9]{index=9}
+⭐️ Basé à Paris — Ouvert aux missions backend, automatisation & intégration.
