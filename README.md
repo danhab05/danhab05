@@ -1,21 +1,109 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">A passionate backend developer from France</h3>
+<h3 align="center">Backend Developer & Automation Specialist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danhab05&label=Profile%20views&color=0e75b6&style=flat" alt="danhab05" /> </p>
-
-- 🌱 I’m currently learning **Golang**
-
-- 💬 Ask me about **python, go, flutter**
-
-- 📫 How to reach me **danhabibpro@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/danhab05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danhab05" height="30" width="40" /></a>
-<a href="https://twitter.com/snowy_27_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snowy_27_" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14011001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14011001" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danhab05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🧠 About Me
+
+Je suis développeur backend avec de l’expérience en **automatisation, scraping, intégration d’APIs et outils internes**.  
+J’aide les équipes et entreprises à gagner du temps en transformant des tâches manuelles répétitives en solutions fiables. :contentReference[oaicite:0]{index=0}
+
+- 💻 Backend-focused developer  
+- 🌱 Currently learning **Golang**  
+- 💬 Ask me about **Go, Python, Flutter, automation & scraping**  
+- 🐧 Linux user  
+- 📫 Contact: **danhabibpro@gmail.com**
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Languages
+
+Python (Advanced)  
+Dart / Flutter (Advanced)  
+JavaScript (Intermediate+)  
+PHP (Intermediate)  
+Go (Learning)  
+HTML/CSS (Intermediate)  
+C++ (Beginner) :contentReference[oaicite:1]{index=1}
+
+---
+
+### 📦 Frameworks & Libraries
+
+- Flask (Strong)  
+- Django (Strong)  
+- Next.js (Intermediate)  
+- React (Intermediate) :contentReference[oaicite:2]{index=2}
+
+---
+
+### 🗄 Databases
+
+- MySQL (Advanced) :contentReference[oaicite:3]{index=3}
+
+---
+
+### 🚀 Tools & Deployment
+
+- Linux (Daily use)  
+- Docker (Good mastery)  
+- Git (Daily use)  
+- REST APIs (Design & Consumption)  
+- VPS deployment :contentReference[oaicite:4]{index=4}
+
+---
+
+### 🔍 Specializations
+
+- **Automatisation avancée**  
+- **Scraping web solide**  
+- **Scripting avancé** :contentReference[oaicite:5]{index=5}
+
+---
+
+## 📌 Projects Highlights
+
+### 🧠 Automation of Real Estate Listings  
+Automatisation complète de dépôt d’annonces avec formulaire, upload d’images et notifications email — utilisé quotidiennement par l’équipe. :contentReference[oaicite:6]{index=6}
+
+**Tech:** Python, Next.js, Docker, Selenium
+
+---
+
+### 🧪 COVID Rapid Test Form  
+Formulaire d’inscription web avec envoi automatique de résultats par mail et suivi centralisé pour pharmacien & patients. :contentReference[oaicite:7]{index=7}
+
+**Tech:** Flutter, Python, Flask, Docker
+
+---
+
+### 🕸 Web Scraping & Scripts  
+Développement de scripts de scraping et automatisation pour back-offices, fournissant des données qualifiées et workflows plus efficaces. :contentReference[oaicite:8]{index=8}
+
+**Tech:** Python, Go
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="https://dev.to/danhab05">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30"/>
+  </a>
+  <a href="https://twitter.com/snowy_27_">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/>
+  </a>
+  <a href="https://stackoverflow.com/users/14011001">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"/>
+  </a>
+</p>
+
+---
+
+⭐️ Basé à Paris — Ouvert aux missions backend, automatisation & intégration. :contentReference[oaicite:9]{index=9}
