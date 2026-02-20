@@ -5,6 +5,11 @@
   Automation • Scraping • APIs • Internal tools
 </p>
 
+<!-- Profile views counter (added, nothing removed) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danhab05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## 🚀 About
