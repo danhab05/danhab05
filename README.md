@@ -19,7 +19,7 @@ Beaucoup de mes projets tournent autour du scraping, des APIs et du développeme
 
 📍 Paris • Remote  
 📫 danhabibpro@gmail.com  
-🌐 https://www.danhabibtech.cc/
+🌐 danhabib.dev
 
 ---
 
